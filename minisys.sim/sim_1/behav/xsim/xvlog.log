@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/ip/ram_1/sim/ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/ip/prgrom/sim/prgrom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgrom
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpuclk_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpuclk
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/control32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/dmemory32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmemory32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/executs32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Executs32
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'ALU_Result' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/executs32.v:22]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/idecode32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Idecode32
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/ifetc32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ifetc32
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'opcplus4' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/ifetc32.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/ioread.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ioread
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'ioread_data' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/ioread.v:12]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/leds.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module leds
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'ledout' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/leds.v:14]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/memorio.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memorio
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'write_data' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/memorio.v:20]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/minisys.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minisys
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/programrom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module programrom
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/switchs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switchs
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'switchrdata' is not allowed [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/switchs.v:14]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Sysdesign/minisys/minisys.srcs/sim_1/imports/sim/minisys_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minisys_sim

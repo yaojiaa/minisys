@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jan 16 15:42:17 2023
+# Process ID: 16684
+# Current directory: C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17300 C:\Users\86133\Desktop\大四上\硬件课设\minisys3\minisys\minisys.xpr
+# Log file: C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys/vivado.log
+# Journal file: C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys\vivado.jou
+#----------------------------------------------------------ststart_guopopen_project C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys/minisys.xpININFO: [Project 1-313] Project file moved from 'E:/Sysdesign/minisys' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/86133/Desktop/大四上/硬件课设/minisys/IP/prgrom/prgmip32.coe', nor could it be found using path 'E:/minisys/IP/prgrom/prgmip32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/86133/Desktop/大四上/硬件课设/minisys/IP/ram/dmem32.coe', nor could it be found using path 'E:/minisys/IP/ram/dmem32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys/minisys_sim_behav.wcfg', nor could it be found using path 'E:/Sysdesign/minisys/minisys_sim_behav.wcfg'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/86133/Desktop/大四上/硬件课设/minisys3/minisys/idecode_sim_behav.wcfg', nor could it be found using path 'E:/Sysdesign/minisys/idecode_sim_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifieININFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/software/vivado/2019.1/data/ip'opopen_project: Time (s): cpu = 00:00:38 ; elapsed = 00:00:25 . Memory (MB): peak = 812.500 ; gain = 190.70upexit
+INFO: [Common 17-206] Exiting Vivexit
+INFO: [Common 17-206] Exiting Vivado at Mon Jan 16 15:52:35 2023...

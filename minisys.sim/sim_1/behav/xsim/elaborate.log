@@ -1,0 +1,40 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 90b5ba8e73924d7e9e9c4ea1a8495cfb --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_3 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot minisys_sim_behav xil_defaultlib.minisys_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'start_pg' [E:/Sysdesign/minisys/minisys.srcs/sim_1/imports/sim/minisys_sim.v:36]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'rx' [E:/Sysdesign/minisys/minisys.srcs/sim_1/imports/sim/minisys_sim.v:37]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'ledwdata' [E:/Sysdesign/minisys/minisys.srcs/sources_1/imports/minisys/minisys.v:221]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.PLLE2_ADV(CLKFBOUT_MULT=46,CLKIN...
+Compiling module xil_defaultlib.cpuclk_clk_wiz
+Compiling module xil_defaultlib.cpuclk
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_output_stage(...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3(C_FAMILY="art...
+Compiling module xil_defaultlib.prgrom
+Compiling module xil_defaultlib.programrom
+Compiling module xil_defaultlib.Ifetc32
+Compiling module xil_defaultlib.Idecode32
+Compiling module xil_defaultlib.control32
+Compiling module xil_defaultlib.Executs32
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_output_stage(...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3(C_FAMILY="art...
+Compiling module xil_defaultlib.ram
+Compiling module xil_defaultlib.dmemory32
+Compiling module xil_defaultlib.memorio
+Compiling module xil_defaultlib.ioread
+Compiling module xil_defaultlib.leds
+Compiling module xil_defaultlib.switchs
+Compiling module xil_defaultlib.minisys
+Compiling module xil_defaultlib.minisys_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot minisys_sim_behav

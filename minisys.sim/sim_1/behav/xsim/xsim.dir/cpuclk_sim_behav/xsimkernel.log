@@ -1,0 +1,7 @@
+Running: xsim.dir/cpuclk_sim_behav/xsimk.exe -simmode gui -wdb cpuclk_sim_behav.wdb -simrunnum 0 -socket 12515
+Design successfully loaded
+Design Loading Memory Usage: 7524 KB (Peak: 7524 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8524 KB (Peak: 8524 KB)
+Simulation CPU Usage: 0 ms
